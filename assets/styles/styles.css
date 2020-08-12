@@ -1,0 +1,19 @@
+html,
+body {
+}
+
+#content {
+	margin: 0 auto;
+	width: 1248px;
+	height: 794px;
+	overflow: hidden;
+}
+
+#gameCanvas {
+	border-radius: 1em;
+	border-style: none;
+}
+
+.message {
+	display: block;
+}
