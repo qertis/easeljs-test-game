@@ -1,6 +1,6 @@
 {
   "name": "simple createJS game",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "qertis"
   ],
@@ -15,8 +15,8 @@
     "tests"
   ],
   "dependencies": {
-    "EaselJS": "~0.8.0",
-    "TweenJS": "~0.6.0",
-    "PreloadJS": "~0.6.0"
+    "EaselJS": "0.8.2",
+    "TweenJS": "0.6.2",
+    "PreloadJS": "0.6.2"
   }
 }
